@@ -1,0 +1,546 @@
+<!doctype html>
+<html ⚡ lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+<title>FIFA11 Studio | Mobile Gaming Platform AMP Modern 2026</title>
+
+<meta name="description" content="FIFA11 AMP platform mobile gaming modern dengan slot game, provider global, FAQ lengkap, dan SEO optimized.">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "FIFA11 Studio",
+  "url": "https://domainanda.com/",
+  "description": "FIFA11 AMP platform mobile gaming modern dengan slot game, provider global, FAQ lengkap, dan SEO optimized.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "FIFA11 Studio"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "FIFA11 Mobile Gaming Platform AMP",
+  "url": "https://domainanda.com/",
+  "description": "Platform mobile gaming modern berbasis AMP dengan slot games, provider global, dan FAQ.",
+  "inLanguage": "id",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "FIFA11 Studio",
+    "url": "https://domainanda.com/"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu FIFA11 Studio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Platform gaming mobile modern berbasis AMP dengan fokus pada performa, SEO, dan pengalaman pengguna."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah platform ini cepat diakses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya, menggunakan AMP sehingga halaman dapat dimuat hampir instan di perangkat mobile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah cocok untuk Google Discover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sangat cocok karena memiliki struktur konten panjang, heading SEO, dan layout mobile-first."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa itu sistem CUAN13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CUAN13 adalah konsep platform mobile entertainment modern yang fokus pada pengalaman interaktif dan cepat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah aman digunakan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya, seluruh struktur AMP sudah mengikuti standar Google tanpa script berbahaya."
+      }
+    }
+  ]
+}
+</script>
+<link rel="canonical" href="https://domainanda.com/">
+
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+
+<style amp-boilerplate>
+body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+</style>
+<noscript><style amp-boilerplate>body{animation:none}</style></noscript>
+
+<style amp-custom>
+
+body{
+margin:0;
+font-family:system-ui,-apple-system,Inter,sans-serif;
+background:#050814;
+color:#e5e7eb;
+}
+
+.container{
+max-width:1000px;
+margin:auto;
+padding:14px;
+display:flex;
+flex-direction:column;
+gap:16px;
+}
+
+.header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.logo{
+font-size:26px;
+font-weight:900;
+}
+
+.logo span{color:#22d3ee}
+
+.btn{
+background:linear-gradient(90deg,#6d28d9,#22d3ee);
+padding:10px 16px;
+border-radius:14px;
+font-size:11px;
+font-weight:900;
+color:#fff;
+text-decoration:none;
+}
+
+/* PANEL */
+.panel{
+border:1px solid rgba(255,255,255,.10);
+border-radius:16px;
+padding:14px;
+background:rgba(255,255,255,.02);
+}
+
+h1{
+font-size:20px;
+color:#22d3ee;
+margin:0;
+}
+
+h2{
+font-size:16px;
+color:#a855f7;
+margin-top:14px;
+}
+
+p{
+font-size:13px;
+line-height:1.7;
+color:#cbd5e1;
+}
+
+/* SLOT GRID */
+.grid{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:10px;
+}
+
+.card{
+border-radius:14px;
+border:1px solid rgba(255,255,255,.10);
+overflow:hidden;
+background:rgba(255,255,255,.02);
+}
+
+.label{
+text-align:center;
+font-size:11px;
+padding:6px;
+color:#cbd5e1;
+}
+
+/* PROVIDER */
+.provider{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:10px;
+text-align:center;
+}
+
+.provider div{
+border:1px solid rgba(255,255,255,.10);
+padding:10px;
+border-radius:10px;
+font-size:11px;
+}
+
+/* FAQ */
+.faq{
+margin-top:10px;
+}
+
+.faq-item{
+border-top:1px solid rgba(255,255,255,.08);
+padding-top:10px;
+margin-top:10px;
+}
+
+.faq-q{
+font-size:13px;
+font-weight:700;
+color:#fff;
+}
+
+.faq-a{
+font-size:12px;
+color:#9ca3af;
+line-height:1.6;
+}
+
+/* FOOTER */
+.footer{
+margin-top:10px;
+border-top:1px solid rgba(255,255,255,.10);
+padding-top:14px;
+font-size:11px;
+color:#6b7280;
+}
+
+.footer-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:10px;
+margin-bottom:10px;
+}
+
+.footer-grid div{
+font-size:11px;
+color:#cbd5e1;
+}
+
+@media(max-width:768px){
+.grid{grid-template-columns:repeat(2,1fr)}
+.provider{grid-template-columns:1fr}
+.footer-grid{grid-template-columns:1fr}
+}
+.panel amp-img{
+border-radius:12px;
+overflow:hidden;
+box-shadow:0 0 18px rgba(34,211,238,.15);
+}
+.provider-grid{
+display:grid;
+grid-template-columns:repeat(8,1fr);
+gap:4px;
+}
+
+.provider-grid{
+display:grid;
+grid-template-columns:repeat(6,1fr);
+gap:8px;
+}
+
+/* CARD LEBIH BESAR & RAPI */
+.provider-card{
+border:1px solid rgba(255,255,255,.08);
+border-radius:10px;
+overflow:hidden;
+background:rgba(255,255,255,.02);
+aspect-ratio: 2 / 1;
+display:flex;
+align-items:center;
+justify-content:center;
+padding:4px;
+transition:.15s;
+}
+
+/* AMP IMAGE FIT */
+.provider-card amp-img{
+width:100%;
+height:100%;
+object-fit:contain;
+}
+
+/* hover optional */
+.provider-card:hover{
+transform:scale(1.04);
+box-shadow:0 0 12px rgba(34,211,238,.15);
+}
+
+/* TABLET */
+@media(max-width:900px){
+.provider-grid{
+grid-template-columns:repeat(4,1fr);
+gap:8px;
+}
+}
+
+/* MOBILE (INI FIX UTAMA) */
+@media(max-width:600px){
+.provider-grid{
+grid-template-columns:repeat(3,1fr);
+gap:10px;
+}
+
+.provider-card{
+padding:6px;
+border-radius:12px;
+}
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="logo">FIFA<span>11</span></div>
+    <a class="btn" href="#">ENTER</a>
+  </div>
+
+  <!-- HERO BANNER (ADD THIS SECTION) -->
+<div class="panel">
+
+  <amp-img
+    src="https://via.placeholder.com/1200x500"
+    width="1200"
+    height="500"
+    layout="responsive"
+    alt="FIFA11 Mobile Gaming Hero Banner">
+  </amp-img>
+
+  <h2 style="margin-top:10px;">🔥 Welcome to FIFA11 Mobile Gaming Experience</h2>
+
+  <p>
+    Nikmati pengalaman platform gaming mobile modern dengan performa cepat berbasis AMP,
+    desain neon cinematic, dan sistem UI yang dioptimalkan untuk kenyamanan pengguna.
+  </p>
+
+</div>
+
+  <!-- HERO -->
+  <div class="panel">
+    <h1>FIFA11 AMP Mobile Gaming Platform 2026</h1>
+
+    <p>
+      FIFA11 Studio adalah platform gaming modern berbasis AMP yang dirancang untuk memberikan pengalaman mobile-first
+      dengan fokus pada kecepatan, kenyamanan, dan struktur SEO yang optimal. Platform ini menghadirkan konsep
+      wahana permainan digital modern seperti sistem CUAN13 berbasis mobile entertainment ecosystem.
+    </p>
+
+    <p>
+      Dalam era digital saat ini, pengguna lebih memilih platform yang cepat, ringan, dan responsif. Oleh karena itu,
+      FIFA11 menggunakan teknologi AMP untuk memastikan setiap halaman dapat diakses dengan instan tanpa delay.
+      Dengan struktur ini, pengalaman pengguna menjadi lebih baik sekaligus meningkatkan peluang ranking di Google Search
+      maupun Google Discover.
+    </p>
+
+    <p>
+      Selain performa, FIFA11 juga mengutamakan pengalaman visual. Desain modern berbasis neon UI memberikan kesan
+      premium seperti game studio profesional. Kombinasi ini menciptakan keseimbangan antara estetika dan fungsi,
+      sehingga cocok untuk platform hiburan digital masa kini.
+    </p>
+
+    <h2>Keunggulan Platform</h2>
+    <p>
+      Platform ini memiliki berbagai keunggulan seperti loading super cepat, struktur SEO lengkap, desain mobile-first,
+      serta kompatibilitas penuh dengan semua perangkat. Sistem ini juga dirancang agar mudah di-index oleh mesin pencari
+      dan memiliki peluang besar masuk Google Discover.
+    </p>
+  </div>
+
+  <!-- SLOT GAME -->
+  <div class="panel">
+
+    <h2>🎰 Game Slot Populer</h2>
+
+    <div class="grid">
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Neon 1</div>
+      </div>
+      
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Mega Win</div>
+      </div>
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Galaxy</div>
+      </div>
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Turbo Spin</div>
+      </div>
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Turbo Spin</div>
+      </div>
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Turbo Spin</div>
+      </div>
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Turbo Spin</div>
+      </div>
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Turbo Spin</div>
+      </div>
+
+      <div class="card">
+        <amp-img src="https://via.placeholder.com/200x200"
+          width="200" height="200" layout="responsive"></amp-img>
+        <div class="label">Slot Turbo Spin</div>
+      </div>
+
+      </div>
+
+  </div>
+
+  <!-- PROVIDER SECTION (AMP IMAGE VERSION) -->
+<div class="panel">
+
+  <h2>🌐 Provider Game Global</h2>
+  <div class="provider-grid">
+
+    <div class="provider-card">
+      <amp-img src="images/pragmatic-play.jpg"
+        width="300" height="150" layout="responsive"
+        alt="Pragmatic Play Provider"></amp-img>
+    </div>
+
+    <div class="provider-card">
+      <amp-img src="images/pg-soft.jpg"
+        width="300" height="150" layout="responsive"
+        alt="PG Soft Provider"></amp-img>
+    </div>
+
+    <div class="provider-card">
+      <amp-img src="images/habanero.jpg"
+        width="300" height="150" layout="responsive"
+        alt="Habanero Provider"></amp-img>
+    </div>
+
+    <div class="provider-card">
+      <amp-img src="images/microgaming.jpg"
+        width="300" height="150" layout="responsive"
+        alt="Microgaming Provider"></amp-img>
+    </div>
+
+    <div class="provider-card">
+      <amp-img src="images/joker-gaming.jpg"
+        width="300" height="150" layout="responsive"
+        alt="Joker Gaming Provider"></amp-img>
+    </div>
+
+    <div class="provider-card">
+      <amp-img src="images/cq9.jpg"
+        width="300" height="150" layout="responsive"
+        alt="CQ9 Provider"></amp-img>
+    </div>
+
+  </div>
+
+</div>
+
+  <!-- FAQ -->
+  <div class="panel">
+
+    <h2>❓ FAQ (Frequently Asked Questions)</h2>
+
+    <div class="faq">
+
+      <div class="faq-item">
+        <div class="faq-q">Apa itu FIFA11 Studio?</div>
+        <div class="faq-a">Platform gaming mobile modern berbasis AMP dengan fokus pada performa, SEO, dan pengalaman pengguna.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">Apakah platform ini cepat diakses?</div>
+        <div class="faq-a">Ya, menggunakan AMP sehingga halaman dapat dimuat hampir instan di perangkat mobile.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">Apakah cocok untuk Google Discover?</div>
+        <div class="faq-a">Sangat cocok karena memiliki struktur konten panjang, heading SEO, dan layout mobile-first.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">Apa itu sistem CUAN13?</div>
+        <div class="faq-a">CUAN13 adalah konsep platform mobile entertainment modern yang fokus pada pengalaman interaktif dan cepat.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">Apakah aman digunakan?</div>
+        <div class="faq-a">Ya, seluruh struktur AMP sudah mengikuti standar Google tanpa script berbahaya.</div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+
+    <div class="footer-grid">
+      <div><strong>Tentang Kami</strong><br>FIFA11 Studio adalah platform mobile gaming modern berbasis AMP.</div>
+      <div><strong>Support</strong><br>24/7 Customer Support untuk bantuan pengguna.</div>
+      <div><strong>Sosial Media</strong><br>Instagram | Facebook | Telegram</div>
+    </div>
+
+    <div style="text-align:center;">
+      © 2026 FIFA11 Studio. All Rights Reserved.
+    </div>
+
+  </div>
+
+</div>
+
+</body>
+</html>

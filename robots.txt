@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bos138oke.com/sitemap.xml
