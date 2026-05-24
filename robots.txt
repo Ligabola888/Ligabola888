@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bos138oke.com/sitemap.xml
+Sitemap: https://ligabola888.github.io/ligabola888/sitemap.xml
